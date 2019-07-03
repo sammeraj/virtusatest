@@ -5,7 +5,7 @@
 `0.0.1`
 
 ## Summary ##
-This app convert the given number into British English words format. For example, 56945781 = fifty six million nine hundred and forty five thousand seven hundred and eighty one
+This app convert the given number into British English words format. For example, 56945781 = fifty six million nine hundred and forty five thousand seven hundred and eighty one.
 
 * [Prerequisites](#markdown-header-prerequisites)
 * [Build](#markdown-header-build)
@@ -38,6 +38,12 @@ mvn clean install
 Verify that it generates below artifacts:
 
 * ./target/sample-*.jar
+
+---
+
+## Test
+
+This api can be tested using the junit provided with in the app.
 
 ---
 
